@@ -1,1 +1,3 @@
-# Simple-Client-Api
+# Simple-Client-Api repo
+
+Простой пример логина на стороне клиента
